@@ -14,8 +14,8 @@ permalink: /programming/design-patterns/decorator
 
 ## 정의
 
-**데코레이터 패턴(Decorator Pattern)** 이란, 객체에 추가 요소를 동적으로 더할 수 있습니다.  
-데코레이터 패턴을 사용하면 서브클래스를 만들 때보다 훨씬 유연하게 기능을 확장할 수 있습니다.
+**데코레이터 패턴(Decorator Pattern)** 이란, 객체에 추가적인 요소를 동적으로 추가할 수 있는 디자인 패턴이다.  
+또한 데코레이터 패턴을 사용하면 서브클래스를 만들 때보다 훨씬 유연하게 기능을 확장할 수 있다.
 
 ---
 
@@ -76,12 +76,6 @@ permalink: /programming/design-patterns/decorator
 ---
 
 ## 예제
-
-### 클래스 다이어그램
-
-&nbsp;
-
-![데코레이터 음료 예제](../../../assets/images/design-patterns/decorator/decorator_example_beverage.png)
 
 ### Component
 
