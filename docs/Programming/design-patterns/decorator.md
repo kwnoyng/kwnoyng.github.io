@@ -219,7 +219,7 @@ public class Main {
 
 &nbsp;
 
-![데코레이터 노트북 예제](../../../assets/images/design-patterns/decorator/decorator_example_laptop.png)
+![데코레이터 패턴 노트북 예제](../../../assets/images/design-patterns/decorator/decorator_example_laptop.png)
 
 ### Laptop Components
 
